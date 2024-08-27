@@ -22,21 +22,8 @@
         }
     </style>
 
-    <script>
-        tailwind.config = {
-        theme: {
-            extend: {
-            colors: {
-                clifford: '#da373d',
-                'rinterio-bg': 'background: rgb(244, 244, 244);',
-            }
-            }
-        }
-        }
-    </script>
-
 </head>
-<body class="bg-rinterio-bg font-manrope">
+<body class="bg-rinterio-bg font-manrope bg-slate-100">
 
     <!-- header section -->
     <header class="bg-gradient-to-b from-slate-100 to-white">
@@ -104,7 +91,7 @@
             </div>
 
             <img class="mx-auto pt-12" src="assets/banner.png" alt="">
-            <h1 class="pt-5 font-extrabold text-5xl text-center text-[rgba(33, 33, 33, 1)]">A barn house of this design has a striking appearance</h1>
+            <h1 class="pt-5 font-extrabold text-5xl text-center">A barn house of this design has a striking appearance</h1>
 
             <div class="flex justify-center">
                 <p class="text-[#494949] text-center pt-8 text-base w-2/3">The barn house captivates with its blend of rustic charm and modern sophistication, featuring weathered wood, sleek metal accents, and large windows that flood the space with natural light.</p>
@@ -124,7 +111,63 @@
     </header>
 
     <!-- main content -->
-    <main></main>
+    <main>
+
+        <!-- about us -->
+        <section>
+            <img class="pb-5 absolute left-24 pt-10" src="assets/Vector.png" alt="">
+            <div class="w-11/12 lg:w-4/5 mx-auto flex flex-col lg:flex-row pt-24">
+
+                <!-- details part -->
+                <div>
+                    <p class="btn bg-white rounded-full"> 
+                        <svg class="size-6 fill-black xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg>
+                        About Us
+                    </p>
+
+                    <h2 class="font-extrabold text-4xl pt-5">We design thoughtful, liveable spaces</h2>
+                    <p class="text-[#494949] pt-8 text-base">The barn house captivates with its blend of rustic charm and 
+                    modern sophistication, featuring weathered wood, sleek metal accents.</p>
+                    
+                    <!-- cards -->
+                    <div class="pt-8">
+                        <div class="card card-side bg-white">
+                            <figure>
+                              <img class="pl-5"
+                                src="assets/commercial.png"
+                                alt="" />
+                            </figure>
+                            <div class="card-body">
+                              <h2 class="card-title font-extrabold">Commercial</h2>
+                              <p>The barn house captivates with its blend of rustic charm and modern.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="pt-8">
+                        <div class="card card-side bg-white">
+                            <figure>
+                              <img class="pl-5"
+                                src="assets/commercial.png"
+                                alt="" />
+                            </figure>
+                            <div class="card-body">
+                              <h2 class="card-title font-extrabold">Residential</h2>
+                              <p>The barn house captivates with its blend of rustic charm and modern.</p>
+                            </div>
+                        </div>
+                    </div>
+                        
+                </div>
+
+                <!-- image part -->
+                <div class="w-full flex justify-end">
+                    <img src="assets/Rectangle.png" alt="">
+                </div>
+            </div>
+        </section>
+
+    </main>
 
     <!-- footer section -->
     <footer></footer>
