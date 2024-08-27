@@ -6,6 +6,7 @@ Responsiveness:
 3. Phone - Mandatory
 
 Sections:
+
     main:
     1. navbar - mandatory
     2. banner - mandatory
