@@ -8,8 +8,8 @@ Responsiveness:
 Sections:
 
     main:
-    1. navbar - mandatory
-    2. banner - mandatory
+    1. navbar - mandatory - completed
+    2. banner - mandatory - completed
     3. about us - mandatory
     4. stats - optional
     5. our work process - mandatory 
