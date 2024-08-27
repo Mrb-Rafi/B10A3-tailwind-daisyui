@@ -10,9 +10,9 @@ Sections:
     main:
     1. navbar - mandatory - completed
     2. banner - mandatory - completed
-    3. about us - mandatory
+    3. about us - mandatory - completed
     4. stats - optional
-    5. our work process - mandatory 
+    5. our work process - mandatory - completed
     6. articles and news - optional
     7. contact - mandatory
     8. footer - mandatory
