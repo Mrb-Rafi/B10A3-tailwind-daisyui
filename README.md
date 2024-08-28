@@ -14,8 +14,8 @@ Sections:
     4. stats - optional
     5. our work process - mandatory - completed
     6. articles and news - optional
-    7. contact - mandatory
-    8. footer - mandatory
+    7. contact - mandatory - completed
+    8. footer - mandatory - completed
 
     challenges:
     1. our latest portfolio section
