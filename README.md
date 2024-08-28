@@ -1,5 +1,7 @@
 B10A3 - Responsive Rinterio interior using Tailwind and DaisyUI
 
+******************* Assignment completed *******************
+
 Responsiveness:
 1. Desktop - mandatory - completed
 2. Tab - optional
