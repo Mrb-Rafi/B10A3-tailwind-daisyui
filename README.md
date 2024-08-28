@@ -1,9 +1,9 @@
 B10A3 - Responsive Rinterio interior using Tailwind and DaisyUI
 
 Responsiveness:
-1. Desktop - mandatory
+1. Desktop - mandatory - completed
 2. Tab - optional
-3. Phone - Mandatory
+3. Phone - Mandatory - completed
 
 Sections:
 
@@ -19,4 +19,4 @@ Sections:
 
     challenges:
     1. our latest portfolio section - completed
-    2. one new and extra meaningful section
+    2. one new and extra meaningful section - completed
