@@ -18,5 +18,5 @@ Sections:
     8. footer - mandatory - completed
 
     challenges:
-    1. our latest portfolio section
+    1. our latest portfolio section - completed
     2. one new and extra meaningful section
